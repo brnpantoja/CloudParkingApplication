@@ -15,7 +15,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 //public class SwaggerConfig {
 //
 //    @Bean
-//    public Docket api(){
+//    public Docket getDocket(){
 //        return new Docket(DocumentationType.SWAGGER_2)
 //                .select()
 //                .apis(RequestHandlerSelectors.basePackage("one.digitalinnovation.parking"))
