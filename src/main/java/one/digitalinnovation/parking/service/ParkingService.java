@@ -62,4 +62,12 @@ public class ParkingService {
         parkingMap.replace(id, parking);
         return parking;
     }
+
+    public Parking update(String id) {
+        return null;
+    }
+
+    public Parking checkOut(String id) {
+        return null;
+    }
 }
